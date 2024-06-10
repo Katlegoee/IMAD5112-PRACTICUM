@@ -1,5 +1,4 @@
-# NAME : KATLEGO
-# STUDENT NUMBER : ST10212886
+
 # NICE WEATHER
 ![thislittleweather](https://github.com/Katlegoee/IMAD5112-PRACTICUM/assets/162302242/2bca06b5-60a2-48fd-aa75-b1711a80348d)
 
@@ -7,7 +6,7 @@
 The purpose of this comprehensive report is to provide an in-depth overview of my Nice Weather app. The report will delve into the app's purpose, design considerations, and the utilization of GitHub and GitHub Actions in the development process. 
 
 # 2. Purpose of the App:
-The nice weather app,its purpose is to provide the average temperature for a the week nad aslo allows the user to view detailed infromation for the day.
+The nice weather app,its purpose is to provide the average temperature for a the week nad aslo allows the user to view detailed information for the day.
 
 # 3. Design Considerations: 
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -28,7 +27,7 @@ v.The exit page when the ser wants to exit the page
 
 The features that were implemented for the app were implemented using Android Studio for front-end and the backend using mostly the Kotlin Language. 
 
-- Scalability: The app was designed to accommodate anyone who is interested in the weather infromation for the day, with scalability in mind for both the user interface and backend infrastructure. 
+- Scalability: The app was designed to accommodate anyone who is interested in the weather information for the day, with scalability in mind for both the user interface and backend infrastructure. 
 
 - Security:Robust security measures were implemented to protect sensitive user data, including encryption of data in transit and at rest, role-based access control, and regular security audits. 
 
@@ -50,7 +49,7 @@ Continuous Integration and Deployment (CI/CD) with GitHub Actions: GitHub Action
 Documentation: GitHub's wiki feature was utilized to create and maintain comprehensive documentation for the app, including installation instructions, user guides, and API documentation. This centralized documentation hub served as a valuable resource for both developers and end-users. 
 
 # 5.Conclusion: 
-In conclusion, my niceapp represents a comprehensive solution for users to engage with the app that provides virtual experience where users can view detailed infromation for the day on their smartphones or digital devices, while managing the weekly weather condition, designed with a focus on usability and scalability. The utilization of GitHub and GitHub Actions played a crucial role in the development process, enabling efficient collaboration, automated workflows, and reliable deployment. As the app continues to evolve, GitHub will remain a vital component of our development workflow, facilitating further innovation and improvement. 
+In conclusion, my niceapp represents a comprehensive solution for users to engage with the app that provides virtual experience where users can view detailed information for the day on their smartphones or digital devices, while managing the weekly weather condition, designed with a focus on usability and scalability. The utilization of GitHub and GitHub Actions played a crucial role in the development process, enabling efficient collaboration, automated workflows, and reliable deployment. As the app continues to evolve, GitHub will remain a vital component of our development workflow, facilitating further innovation and improvement. 
 
 # 6. References: 
 
