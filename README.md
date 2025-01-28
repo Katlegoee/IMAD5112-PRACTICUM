@@ -21,7 +21,7 @@ iii. My name and student number
 
 Iv. The next button that takes the user to the main page 
 
-v.The exit page when the ser wants to exit the page 
+v.The exit page when the user wants to exit the page 
 
 # Second page
 
